@@ -1,4 +1,4 @@
-![Two people brainstorming Network Automation on a lightboard](https://www.caci.co.uk/wp-content/uploads/2021/07/network_design_deployment_1920x1080_v2.png)
+![Representation of a network across a city](https://www.caci.co.uk/wp-content/uploads/2025/02/Body-image21-1024x512.jpg.webp)
 
 # NetDevOps is a journey
 Right now the Network Engineering world is just learning the power of what Network Automation and DevOps Principles can do to accelerate the efficiency and accuracy of Network Delivery. [CACI Network Services](https://www.caci.co.uk/services/network-infrastructure-consulting/) understands the power of Open Source, and wants to help your Company embrace NetDevOps Tools to help you on your Digital Transformation journey.
